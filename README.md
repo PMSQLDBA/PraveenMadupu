@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmsqldba&label=Profile%20views&color=0e75b6&style=flat" alt="pmsqldba" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pmsqldba" alt="pmsqldba" /></a> </p>
-
-- 🔭 I’m currently working on **SQL DBA Repositories**
-
-- 👯 I’m looking to collaborate on **DBA Repositories**
-
-- 🤝 I’m looking for help with **DBA Repositories**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PMSQLDBA?tab=repositories](https://github.com/PMSQLDBA?tab=repositories)
 
 - 📝 I regularly write articles on [SQL Server Database Administration](SQL Server Database Administration)
