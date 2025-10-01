@@ -12,7 +12,7 @@
        
 - 💬 Ask me about **MS SQL Server Database Administration**
 
-- 📫 How to reach me **WhatsApp: +91 98661 30093** India (or) **Mob: +1 201 284 2594** USA
+- 📫 How to reach me **WhatsApp: +91 98661 30093** India (or) **Mob: +1 201 284 2593** USA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
