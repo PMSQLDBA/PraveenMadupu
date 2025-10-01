@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **WhatsApp: +91 98661 30093** India (or) **Mob: +1 201 284 2593** USA
 
-<h3 align="left">Connect with me:</h3>
+- Feel free to follow me on LinkedIn using the link below if you like posts:
+  https://lnkd.in/dBeAeNyk
+
 <p align="left">
 </p>
 
