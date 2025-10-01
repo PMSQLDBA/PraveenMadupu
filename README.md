@@ -1,7 +1,7 @@
 # PraveenMadupu
 
-<h1 align="center">Hi 👋, I'm Praveen Kumar Madupu</h1>
-<h3 align="center">A passionate MS SQL Server DBA from India</h3>
+<h1 align="center">Hi 👋, I'm Praveen Madupu</h1>
+<h3 align="center">A passionate Database Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmsqldba&label=Profile%20views&color=0e75b6&style=flat" alt="pmsqldba" /> </p>
 
