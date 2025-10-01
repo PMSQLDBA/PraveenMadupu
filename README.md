@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PMSQLDBA?tab=repositories](https://github.com/PMSQLDBA?tab=repositories)
 
-- 📝 I regularly write articles on [SQL Server Database Administration](SQL Server Database Administration)
+- 📝 I regularly share articles on [SQL Server Database Administration](SQL Server Database Administration) and other DB Technologies including Cloud.
 
 - 💬 Ask me about **MS SQL Server Database Administration**
 
-- 📫 How to reach me **praveensqldba12@gmail.com** (or) **WhatsApp: +91 98661 30093**
+- 📫 How to reach me **WhatsApp: +91 98661 30093** India (or) **Mob: +1 201 284 2594** USA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
