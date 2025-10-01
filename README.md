@@ -7,8 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PMSQLDBA?tab=repositories](https://github.com/PMSQLDBA?tab=repositories)
 
-- 📝 I regularly share articles on [SQL Server Database Administration](SQL Server Database Administration) and other DB Technologies including Cloud.
-
+- 📝 I regularly share articles on below:
+       Database Administration || SQL Server || Cloud (AWS\Azure) || PostgreSQL || Mongodb || DB2 || Oracle || FAQ's Interview Based
+       
 - 💬 Ask me about **MS SQL Server Database Administration**
 
 - 📫 How to reach me **WhatsApp: +91 98661 30093** India (or) **Mob: +1 201 284 2594** USA
