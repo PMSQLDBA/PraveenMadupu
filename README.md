@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PMSQLDBA?tab=repositories](https://github.com/PMSQLDBA?tab=repositories)
 
-- 📝 I regularly share articles on below:
+- 📝 I regularly share articles on:
        Database Administration || SQL Server || Cloud (AWS\Azure) || PostgreSQL || Mongodb || DB2 || Oracle || FAQ's Interview Based
        
 - 💬 Ask me about **MS SQL Server Database Administration**
